@@ -1,0 +1,17 @@
+{
+    "name" : "查询平替",
+    "author" : "lunzhiPenxil",
+    "namespace" : "OlivOSPingTi",
+    "info" : "查询平替",
+    "priority" : 50000,
+    "svn" : 1,
+    "compatible_svn" : 100,
+    "message_mode" : "olivos_string",
+    "support" : [
+        {
+            "sdk" : "all",
+            "platform" : "all",
+            "model" : "all"
+        }
+    ]
+}
