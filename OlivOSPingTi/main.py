@@ -74,7 +74,7 @@ def getAnswer(itemName:str):
             ]
         }
     )
-    send_url = 'https://www.pingti.xyz/api/chat'
+    send_url = 'https://pingti.app/api/chat'
     headers = {
         'User-Agent': 'OlivOS/1.0.0'
     }

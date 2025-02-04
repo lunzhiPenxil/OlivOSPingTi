@@ -4,7 +4,7 @@
     "namespace" : "OlivOSPingTi",
     "info" : "查询平替",
     "priority" : 50000,
-    "svn" : 1,
+    "svn" : 2,
     "compatible_svn" : 100,
     "message_mode" : "olivos_string",
     "support" : [
